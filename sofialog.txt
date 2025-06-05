@@ -1,0 +1,47 @@
+commit 2f5f179b49d6724cc2638d37eb4e306be4f3a034
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Thu Jun 5 13:53:11 2025 -0600
+
+    base de datos completa
+
+commit f02e44751b13d38445b1e2856b2ee863823682d3
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Thu Jun 5 13:51:18 2025 -0600
+
+    Subiendo SQL de Bodega
+
+commit c48bc4a274c7437198b38d5b79d1b425ce6cbcfc
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Thu Jun 5 13:49:25 2025 -0600
+
+    borrando archivo
+
+commit fab2c692859d6c123c89d373d24faeb36e168f60
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Thu Jun 5 13:47:11 2025 -0600
+
+    Subiendo Java Bodega
+
+commit f4305c68f37ca382169c6c47d0d3efe86cc59e60
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Thu Jun 5 13:43:48 2025 -0600
+
+    Subiendo DAO bodega
+
+commit ef2a59b9c7a69d124b9fe2aff9893cf44bd4d62d
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Thu Jun 5 13:18:34 2025 -0600
+
+    Subiendo Examen
+
+commit 0bca19dfe11d31a246841de19dd2b66211281309
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Thu Jun 5 07:41:54 2025 -0600
+
+    borrando
+
+commit 8f9346f53d0fd8a8dc80c5f2e80d5b69e06e93e1
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Thu Jun 5 07:39:28 2025 -0600
+
+    probrando repositorio
